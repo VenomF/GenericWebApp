@@ -61,7 +61,7 @@ return user;
 	}
 
 @Override
-public User findUSer(String username, int a) throws SQLException {
+public User findUser(String username, int a) throws SQLException {
 	
 	User user = null;
 
